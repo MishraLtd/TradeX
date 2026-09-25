@@ -1,6 +1,0 @@
-numpy
-pandas
-scipy
-scikit-learn
-pydantic>=2
-pytest
